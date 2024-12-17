@@ -13,6 +13,7 @@ int dirPins[] = {GPIO_NUM_15,GPIO_NUM_13};
 
 extern "C" void app_main(void)
 {
+    
     qmd* handler = new qmd(pwmPins, dirPins, 2);
     handler->setRange(19900,0);
 
