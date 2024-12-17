@@ -1,9 +1,10 @@
-[submodule "micro_ros_espidf_component"]
-	path = micro_ros_espidf_component
-	url = https://github.com/micro-ROS/micro_ros_espidf_component.git
+
 [submodule "qmd"]
 	path = qmd
 	url = https://github.com/shvass/qmd.git
 [submodule "urosHandler"]
 	path = urosHandler
 	url = https://github.com/gawar55/urosHandler.git
+[submodule "micro_ros_espidf_component"]
+	path = micro_ros_espidf_component
+	url = https://github.com/micro-ROS/micro_ros_espidf_component.git
